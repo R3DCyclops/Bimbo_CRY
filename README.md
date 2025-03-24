@@ -1,4 +1,6 @@
-The project is compiled into a single .exe file.
+![Group 2](https://github.com/user-attachments/assets/d6874b59-7935-4b95-ae63-9dad50aea407)
+      
+       The project is compiled into a single .exe file.
 
       A unique message encryption system is used.
       
@@ -9,7 +11,7 @@ The project is compiled into a single .exe file.
             
                Atmospheric emojis included 💞👠
                
-AI-resistant cipher protection.
+      AI-resistant cipher protection.
 
         - The cipher is created in the format: 💋 💋 💋 💋 💋 - 1 1 1 1 1
         
@@ -31,8 +33,8 @@ AI-resistant cipher protection.
                                                                     
                                                                                           ----🔴----
                                                                                           
-Happy usage.
+                                                                                          Happy usage.
 
-Also, a special thank you if you decide to test it out.
+      Also, a special thank you if you decide to test it out.
 
 ![image](https://github.com/user-attachments/assets/63fc5f64-0453-4af7-b8e5-3b77217c5b1e)
