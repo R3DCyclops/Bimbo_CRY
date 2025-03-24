@@ -25,7 +25,8 @@
        
       No internet connection required.
                                 
-      Anyone who receives this cipher will only be able to decrypt it using the exact same version of the program as yours.
+      Anyone who receives this cipher will only be able to decrypt 
+                it using the exact same version of the program as yours.
                                 
         Version compatibility for ciphers: 
         1.0 is compatible with 1.1
