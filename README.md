@@ -27,15 +27,16 @@
                                 
       Anyone who receives this cipher will only be able to decrypt it using the exact same version of the program as yours.
                                 
-        Version compatibility for ciphers: 1.0 is compatible with 1.1
-        
+        Version compatibility for ciphers: 
+        1.0 is compatible with 1.1
         1.2 is currently only compatible with 1.2
+        1.3 is currently only compatible with 1.3
         
-                                            💖It seems like little Bimbo is hiding something from us🩸
+                               💖It seems like little Bimbo is hiding something from us🩸
                                                                     
-                                                                   ----🔴----
+                                                   ----🔴----
                                                                                           
-                                                                    Happy usage.
+                                                   Happy usage.
 
       Also, a special thank you if you decide to test it out.
 
