@@ -3,10 +3,14 @@
        The project is compiled into a single .exe file.
 
       A unique message encryption system is used.
-      
+          Version 1.4 adds SEED System! Making encryption variations virtually endless even for 5-letter words.
+          Version 1.4 adds SEED System! Making encryption variations virtually endless even for 5-letter words.
+          Version 1.4 adds SEED System! Making encryption variations virtually endless even for 5-letter words.
+          -----Old versions----
           For example: a 5-letter word can be encrypted in 10,000,000,000 different ways.
        A 10-letter word can be encrypted in 100,000,000,000,000,000,000 differnt ways.
        And this can easily be increased thousands of times over, but there’s no need.
+       ---------------------------
           
             Encryption and decryption happen instantly.
             
@@ -41,4 +45,5 @@
 
       Also, a special thank you if you decide to test it out.
 
-![image](https://github.com/user-attachments/assets/63fc5f64-0453-4af7-b8e5-3b77217c5b1e)
+![image](https://github.com/user-attachments/assets/b9daf95f-5e28-4939-98c6-28d37b29a7a3)
+
