@@ -45,6 +45,7 @@
 
       Also, a special thank you if you decide to test it out.
 
-![image](https://github.com/user-attachments/assets/6144ec91-3145-4fcd-90ff-274dd7cd012e)
+![image](https://github.com/user-attachments/assets/94c2407e-edc4-4ce8-8e2c-1e642654a981)
+
 
 
