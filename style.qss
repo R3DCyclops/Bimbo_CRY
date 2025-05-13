@@ -1,0 +1,44 @@
+QMainWindow {
+    background-color: #2e2e2e;
+}
+
+QLabel {
+    color: white;
+    font-family: "Segoe UI", "Helvetica";
+}
+
+QLineEdit {
+    background-color: #4e4e4e;
+    border-radius: 8px;
+    padding: 4px; /* Уменьшенный отступ */
+    color: white;
+    border: none;
+    min-height: 22px;
+    max-height: 22px;
+}
+
+QPushButton {
+    background-color: #ff8fa2;
+    color: black;
+    border-radius: 10px;
+    padding: 4px 8px; /* Компактные отступы */
+    font-weight: bold;
+    min-height: 22px;
+    max-height: 22px;
+    font-size: 12px;
+}
+
+QPushButton:hover {
+    background-color: #ff9fb2;
+}
+
+QPushButton:pressed {
+    background-color: #ff7f92;
+}
+
+QFrame {
+    background-color: #2e2e2e;
+    border-radius: 6px;
+    padding: 5px; /* Маленькие внутренние отступы */
+    margin: 0px; /* Без внешних отступов */
+}
